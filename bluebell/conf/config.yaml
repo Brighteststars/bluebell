@@ -1,0 +1,23 @@
+name: "bluebell"
+mode: "dev"
+port: 8081
+start_time: "2020-07-01"
+machine_id: 1
+log:
+  level: "debug"
+  filename: "./bluebell.log"
+  max_size: 200
+  max_age: 30
+  max_backups: 7
+mysql:
+  user: "dmfs9000"
+  password: "dmfs9000"
+  host: "127.0.0.1"
+  port: 3306
+  dbname: "bluebell"
+redis:
+  host: "127.0.0.1"
+  port: 6379
+  password: "dypn"
+  db: 0
+  pool_size: 100
