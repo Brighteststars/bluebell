@@ -4,7 +4,7 @@
 <img src="https://github.com/Brighteststars/bluebell/blob/master/images/serve.png" /> </br></br>
 
 ## 项目主要功能 </br>
-### JWT认证,md5加密，雪花算法生成ID，请求参数验证 </br> </br>
+### JWT认证，雪花算法生成ID，md5加密，请求参数验证 </br> </br>
 
 ## 项目有以下主要分层 </br>
 ### 1. 加载配置 </br>
