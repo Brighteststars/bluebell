@@ -3,7 +3,7 @@
 ### 大型Web项目CLD分层 </br>
 <img src="https://github.com/Brighteststars/bluebell/blob/master/images/serve.png" /> </br></br>
 
-### 项目主要功能 </br>
+## 项目主要功能 </br>
 ### JWT认证,md5加密，雪花算法生成ID，请求参数验证 </br> </br>
 
 ## 项目有以下主要分层 </br>
