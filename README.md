@@ -13,7 +13,7 @@
 ### 4. 初始化Redis连接 </br>
 ### 5. 注册路由 </br>
 ### 6. 启动服务 (优雅关机) </br> </br>
-### 下图为Goland编译器中web_app项目结构截图
+### 下图为Goland编译器中bluebell项目结构截图
 <img src="https://github.com/Brighteststars/bluebell/blob/master/images/bluebell.jpg" /> </br></br>
 
 
